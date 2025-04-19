@@ -8,7 +8,7 @@ public class GenericMethodTest{
         public static void main(String[] args){
             Integer[] intArray = {1,2,3,4,5};
             Double[] doubleArray = {1.1,2.2,3.3,4.4};
-            Character[] charArray = {'Y','A','S','H'};
+            Character[] charArray = {'H','A','R','S','H'};
             System.out.println("Array integerArray contains:");
             printArray(intArray);
             System.out.println("\nArray doubleArray contains:");
